@@ -1,3 +1,5 @@
+export {}
+
 {
   type TMapper<T extends string | number | symbol, OV> = <NV>(
     entry: [key: T, oldValue: OV],
