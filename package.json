@@ -1,0 +1,11 @@
+{
+  "name": "test-typescript",
+  "version": "0.0.0",
+  "description": "Test typescript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "tsc --watch"
+  },
+  "author": "Antonio Sferruzza",
+  "license": "ISC"
+}
