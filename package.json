@@ -4,8 +4,12 @@
   "description": "Test typescript",
   "main": "src/index.ts",
   "scripts": {
+    "tsc": "tsc",
     "test": "tsc --watch"
   },
   "author": "Antonio Sferruzza",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
