@@ -9,7 +9,7 @@ type T1 = {
 };
 
 type T1Mapped = {
-  prop10: string; // was prop1
+  prop10: string; // was prop11
   prop4: number; // was prop2
 };
 
